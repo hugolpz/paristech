@@ -1,0 +1,36 @@
+Référents modules:
+"Frédéric Wiame"	 <Frederic.Wiame@chimie-paristech.fr>	 Math, physique
+"Frédéric de Montigny"	 <Frederic.deMontigny@chimie-paristech.fr>	 Chimie organique
+"Daniel Morvan"	 <Daniel.Morvan@chimie-paristech.fr>	 Génie chimique et procédés
+"Françoise Huet"	 <Francoise.Huet@chimie-paristech.fr>	 Français Langue Étrangère
+"Lionel Rosier"	 <Lionel.Rosier@mines-paristech.fr>	 Math
+"Pascal Podvin"	 <Pascal.Podvin@mines-paristech.fr>	 Physique
+"Elie Raphaël"	 <Elie.Raphael@espci.fr>	 Math
+"Janine Cossy"	 <Janine.Cossy@espci.fr>	 Chimie organique
+"Jérôme Lucas"	 <Jerome.Lucas@espci.fr>	 Electronique
+"Françoise Huet"	 <Francoise.Huet@espci.fr>	 Français Langue Étrangère
+
+Référents pédagogie numérique :
+"Frédéric Wiame"	 <Frederic.Wiame@chimie-paristech.fr>	 réf. pédagogie numérique 
+"Willy Morscheidt"	 <Willy.Morscheidt@mines-paristech.fr>	 réf. pédagogie numérique 
+"Sophie Norvez"	 <Sophie.Norvez@espci.fr>	 réf. pédagogie numérique 
+
+Etudiants en cours de rattrapage à la rentrée 2015 => pour questionnaire
+"Inès ARFAOUI"	<ines.arfaoui@etu.chimie-paristech.fr>
+"Baptiste AUMOND"	<baptiste.aumond@etu.chimie-paristech.fr>
+"Madad AZIMANI"	<madad.azimani@etu.chimie-paristech.fr>
+"BAIRU CHEN"	<bairu.chen@etu.chimie-paristech.fr>
+"Oriane DESGEORGE"	<oriane.desgeorge@etu.chimie-paristech.fr>
+"Aude DURAND"	<aude.durand@etu.chimie-paristech.fr>
+"Jérémie DUTOT"	<jeremie.dutot@etu.chimie-paristech.fr>
+"Olivier FEDIDA"	<olivier.fedida@etu.chimie-paristech.fr>
+"Manon GLACHANT"	<manon.glachant@etu.chimie-paristech.fr>
+"Ruoxin HAO"	<ruoxin.hao@etu.chimie-paristech.fr>
+"Lisa HERVET"	<lisa.hervet@etu.chimie-paristech.fr>
+"Valentin LUX"	<valentin.lux@etu.chimie-paristech.fr>
+"Alexandre MALINGE"	<alexandre.malinge@etu.chimie-paristech.fr>
+"Nicolas MOGHADDAM"	<nicolas.moghaddam@etu.chimie-paristech.fr>
+"Phuong Linh NGUYEN"	<pl.nguyen@etu.chimie-paristech.fr>
+"Justine PIANET"	<justine.pianet@etu.chimie-paristech.fr>
+"Anouk PILET"	<anouk.pilet@etu.chimie-paristech.fr>
+"Wangyao XIONG"	<wangyao.xiong@etu.chimie-paristech.fr>

@@ -1,0 +1,16 @@
+INSTALLATION , CARTOGRAPHIER :
++ 	lire project specs
++	chronologie prévisionnelle détaillée
+++ 	@me: doc:Méthodologie de travail par module
+++	@me: doc:arborescense du projet / des fichiers.
++	@Frédéric: com:"Référents de modules", obtenir emails
++	@Frédéric: com:"élèves admis sur titre" (actuels), obtenir 20 emails
+COMMUNIQUER :
+----------------------
++	chronologie prévisionnelle détaillée - propre
+++ 	@me: com:Création d'un ppt frugal d'annonce: projet, acteurs, chronologies, méthodologie à votre écoute, "a votre service, bye".
+++	@me: com:Lettre d'argumentations aux référents.
++	@me, @Frédéric: com:Renommage du projet via brain storming : évaluation, orientation, formation, en ligne, personnalisée / diversité des profils, commune, capitalisable, modulaire, compétences, savoirs, unité minimale d'enseignement, remise à niveau, formation rapide, ouvert.
++	@Frédéric: com:"élèves admis sur titre" (actuels), questionnaire des pratiques / outils
++ 	@me: format Anki
+

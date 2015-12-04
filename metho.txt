@@ -1,0 +1,59 @@
+Méthodologie par module
+Projet de digitalisation de l'évaluation d'entrée et de la formation de remise à niveau.
+
+== Acteurs suffisants
++ 1 référent (enseignant-chercheur), potentiellement plusieurs formateurs en coopération
++ 1 ingénieur Moodle
+L'enseignant-chercheur (et ses aides) et l'ingénieur Moodle sont dynamiques pour créer des contenus d'évaluation et de formation en ligne.
+
+== Gains
+Evaluation: la mise en ligne de l'évaluation via Moodle fournit un retour sur investissement rapide puisqu'il permet la correction automatique des réponses. Elle facilitera l'orientation des étudiants entrants vers les cours de soutiens et unités de connaissance nécessaires à une meilleur réussite.
+Formation: la formation en ligne, constituée d'une série de duos "fiche essentielle + travaux pratique (test)" et de sources / conseils, permet la remise à niveau des étudiants comme à renforcer durant l'été.
+
+La numérisation, l'approche très modulaire, la conservation de ces unités et l'automatisation des processus d'évaluation à pour but de repousser les taches automatisables à la machine. L'accés 24/24, mobile, est un avantage compétitif pour l'école.
+
+== Méthodologie
++ Cycle de travail 1 : Evaluation d'entrée 
+++ 1. 	@Ens 	collecte des matériaux/documents d'évaluation existants
+++ 2.a 	@tous 	réfléxion sur les matériaux/documents d'évaluation existants
+++ 2.b 	@tous 	proposition d'une approche de digitalisation, importance du concept d'"unité minimale de connaissance" à isoler et digitaliser.
+++ 3. 	@tous 	digitalisation des ressources
+++ 4. 	@Ing 	mise en ligne sur Moodle
+++ 5. 	@Ens 	test, feedback
+Note: points 2.a et 2.b à mener lors d'un hackathon de 2-3h Enseignant-Ingénieur.
+(Secret: cette phase teste également l'engagement des référents ! :) )
+
++ Cycle de travail 2 : Formation résultante -- Préparation (avec référents engagés !)
+++ 1.a 	@Ens 	collecte des matériaux/documents existants de la formation de remise à niveau
+++ 1.b 	@Ing 	collecte des pratiques étudiantes existantes/passées pour l'apprentissage et remise à niveau. Via entretien guidé (questionnaire google)
+++ 2.a 	@tous 	réfléxion sur les matériaux/documents de formation existants
+++ 2.b 	@tous 	identification des "unités minimales de connaissance" à isoler et digitaliser : fiche + quizz (+ conseils).[1]
+++ 2.c 	@tous 	proposition d'une approche de digitalisation
+Note: points 2.a, 2.b, 2.c à mener lors de hackathons de 2-3h par l'Enseignant et l'Ingénieur.
+
++ Cycle de travail 3 : Formation résultante -- Production 1
+++ 1. 	@tous 	digitalisation des ressources par unité minimale de connaissance : fiche + quizz (+ conseils).[1]
+++ 2. 	@Ing 	mise en ligne sur Moodle
+++ 3. 	@Ens 	test, feedback
+
+Répéter les cycles jusqu'à complétion.
+
+== Gestion des fichiers du projet
+Arborescence : 
+/		<== dossier racine du projet avec les .txt d'organisation du projet global : chrono.txt, metho.txt, contacts.txt, todo.txt
+/Module-X/ 	<== dossier racine d'un module avec les .txt d'organisation
+/Module-X/	<== contient les nouveaux documents pédagogiques reformatés pour intégration plus facile à Moodle.
+/Module-X/img/	<== infographie
+/Module-X/doc/	<== documents pédagogiques sources fournis par les enseignants
+/Module-X/bin/	<== documents supprimés
+
+Convention de nommage:
+* les documents pédagogiques existants et nouveaux doivent être ordonnées avec rigueur
+* le système de nommage est important
+* ex: Module_Math-unit_1-exponentielle.2.ext (txt, latex, pdf,png) car Module_<x>-unit_<y>-<titre_z>.<fichier_w>.ext
+* SYTEMATIQUEMENT
+
+== Références
+[1]: "fiche essentielle + travaux pratique (quizz)" et de sources / conseils pour aller plus loin.
+
+
