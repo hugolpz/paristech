@@ -1,0 +1,2 @@
+# Resize all image of current directory, make transparency background white
+mogrify -resize 256x256 -background white -flatten *.png
