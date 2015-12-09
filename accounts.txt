@@ -1,0 +1,33 @@
+
+== Gmail.com
+User: training.paristech@gmail.com       <================ central account !
+Pass: ChimieParis5                       <================ Chimie + Paris + 5eme arrondissement
+
+Contacts:
+* professeurs -- importé
+* référents pédagogiques -- importé
+* (éléves : voir /contacts.txt)
+
+== Google Drive
+Plateforme d'édition cloud et collaborative. 
+
+* Pour les document texte (word) -- 
+* Pour les présentations (ptt) -- un fihier modèle est disponible avec une feuille master
+* Pour les questionnaires ("forms") -- afin d'obtenir des informations sur les pratiques des professeurs et élèves
+
+Permet un éco-édition synchrone, via 2+ ordinateurs, dans une me salle ou distant.
+Facilité les spring en pair-writing.
+
+==Google Calendar
+Pour gérer le calendrier personnel.
+
+== Trello.com
+Pour gérer la ToDo list, de manière ouverte.
+Se connerter à gmail puis trello.
+
+== Doodle.com
+Pour gérer les rendez-vous, via un questionnaire simple.
+
+== Github.com
+Pour les développements webs, si nécessaires.
+

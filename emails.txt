@@ -1,0 +1,49 @@
+== Contacts 1 avec les enseignants, un email par enseigant !!! (prise de contact. Si manquer: aller les voir :) )
+## Contacts : enseignants
+## Cours de pré-rentrée 2016 et Moodle
+
+Bonjour,
+
+Un projet innovant de formation (SPIF) est depuis peu lancé dans le but de soutenir activement la mise en ligne des tests d'orientations et cours de remise à niveaux. Votre contact m'a été communiqué par le Pr. Wiame, référent TICE de Chimie Paris.
+Je souhaiterai savoir :
+* êtes-vous toujours en charge de cours de remise à niveau d'élèves entrants ?
+* êtes-vous intéréssé par un soutien Moodle engagé de ma part ?
+
+Je suis présentement en train de cartographier le projet afin de pouvoir aider au mieux votre action lors de la rentrée 2016.
+
+Bien à vous,
+
+-- 
+M. Moodle Chimie Paris
+Ingénieur d'Etude Moodle -- coordination et soutien
+Projet de formation pré-rentrée 2016
+Chimie ParisTech / MineParisTech / ESPCI
+
+
+== Contacts 2 avec les enseignants, un email par enseigant !!! (suite)
+## Contacts : enseignants
+## Cours de pré-rentrée 2016 et Moodle
+Bonjour,
+
+Merci d'abord à vous pour les informations rapportées. Je vous transmets ci-joint une brève présentation du projet (5 slides), le format et les méthodologies du projet évoluront en fonction de vos retours. 
+Pourrais-je vous rencontrer 1h dans votre buereau afin de discuter de vos matériaux, pratiques, ressources aidantes et disponibilités ?
+Bien à vous,
+
+
+== Présentation rapide de Moodle aux enseignants disponibles
+## Contacts : enseignants
+## Présentation rapide de Moodle 
+Bonjour à tous,
+
+Suites aux divers retours, il m'a été plusieurs fois demandé d'organiser une démonstration rapidement Moodle. 
+Je vous proposerai dans le mois d'explorer l'utilisation cet outil d'enseignement en ligne. Les points fort y sont la mobilité et la capaciter d'évaluation instantanée des réponses.
+Je vous propose les dates suivantes :
+* <jour>, <heure>
+* <jour>, <heure>
+* <jour>, <heure>
+Dans la salle <salle>.
+
+
+
+
+
