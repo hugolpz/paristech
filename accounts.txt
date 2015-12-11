@@ -21,6 +21,9 @@ Facilité les spring en pair-writing.
 ==Google Calendar
 Pour gérer le calendrier personnel.
 
+== Twitter.com
+Pour gérer les interactions courtes et la visibilité.
+
 == Trello.com
 Pour gérer la ToDo list, de manière ouverte.
 Se connerter à gmail puis trello.

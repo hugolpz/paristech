@@ -6,7 +6,7 @@ Projet de digitalisation de l'évaluation d'entrée et de la formation de remise
 Projet de mise en ligne des tests d'orientations et cours annuels de remise à niveaux
 
 ### Chronologie
-le projet de remise à niveau en ligne de Paristech, été 2016.
+Le projet de remise à niveau en ligne de Paristech, été 2016. Voir /chrono.txt . 
 
 ### Gains
 **Evaluation:** la mise en ligne de l'évaluation via Moodle fournit un retour sur investissement rapide puisqu'il permet la correction automatique des réponses. Elle facilitera l'orientation des étudiants entrants vers les cours de soutiens et unités de connaissance nécessaires à une meilleur réussite.
@@ -17,7 +17,7 @@ La numérisation, l'approche très modulaire, la conservation de ces unités et 
 ### Gestion des fichiers du projet
 **Arborescence :**
 /		<== dossier racine du projet avec les .txt d'organisation du projet global : todo.txt, chrono.txt, metho.txt, account.txt, contacts.txt, emails.txt (brouillons).
-/Module-X/ 	<== dossier racine d'un module avec les .txt d'organisation (réunions.txt, todo.txt, etc)
+/Module-X/	<== dossier racine d'un module avec les .txt d'organisation (réunions.txt, todo.txt, etc)
 /Module-X/	<== contient les nouveaux documents pédagogiques reformatés pour une intégration plus facile à Moodle.
 /Module-X/img/	<== infographie
 /Module-X/doc/	<== documents pédagogiques brute fournis par les enseignants, .doc / .pdf / .ptt / etc.

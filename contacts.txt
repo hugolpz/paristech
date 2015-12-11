@@ -1,3 +1,8 @@
+PSL : Paris Sciences et Lettre -- nouvelle super université pour être compétitif internationalement.
+* Chimie Paristech -- meilleur école d'ingénieur chimiste en france (Nous !!!)
+* MINES Paristech -- grande école d'ingénieur
+* ESPCI -- grande école d'ingénieur
+
 Référents modules:
 "Frédéric Wiame"	 <Frederic.Wiame@chimie-paristech.fr>	 Math, physique
 "Frédéric de Montigny"	 <Frederic.deMontigny@chimie-paristech.fr>	 Chimie organique

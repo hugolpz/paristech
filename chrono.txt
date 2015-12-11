@@ -1,20 +1,20 @@
 --- PREPARATION
-+ 15/12 1. Cartographier
-+ 16/0* 	acteurs, lieux, prise de contacts (emails)
-+ 15/12	2. Installation
-+ 15/12-16/01 	prise en main de Moodle
-+ 15/12-16/01	initier la collaboration positive
++ 16/01 1. Cartographier
++ 16/01 	acteurs, lieux, prise de contacts (emails)   <=== voir /contact.txt
++ 16/01	2. Installation
++ 16/01 	prise en main de Moodle
++ 16/01		ammorcer la collaboration positive  <=== voir/via gmail, RENCONTRER LES GENS :)
 + 16/01	3. Déterminer les ressources :
-		acteurs clefs, modules et compétences, questionnaires existants, cours existants (interne, MOOC)
---- PRODUCTION
-+ 15/12-16/01	Phase 1 : Cristalisation : la méthodologie de production de contenus pédagogiques digitaux est proposée aux groupes de travail
+		acteurs clefs, modules et compétences, questionnaires existants, cours existants (interne, MOOC)  <=== voir gmail, gdrive (questionnaire)
+--- PRODUCTION			<=== voir /metho.txt
++ 16/01		Phase 1 : Cristalisation : la méthodologie de production de contenus pédagogiques digitaux est connu, les acteurs contactés, la mise en place débute. 
 + 16/01-03	Phase 2 : Essaie : Production de contenus avec tous les groupes, coordination, formation, hackathon
 + 16/03-05	Phase 3 : Attaque : Production de contenus avec les groupes solides / survivants, coordination, hackathon
-+ 16/05-06	Phase 4 : Mise en ligne, support technique
++ 16/05-06	Phase 4 : Mise en ligne, support technique aux enseignants
 --- ACTION
 + 16/06/20-30	Test 1   <======================= mesure d'entrée
-+ 16/07-08	/!!!! COURS EN LIGNE !!!!\, support technique
++ 16/07-08	/!!!! COURS EN LIGNE !!!!\, support technique aux élèves (?)
 + 16/08/10-18	Test 2   <======================= mesure de sortie
-+ 16/09/20-30	Semaine de formation IRL
++ 16/08/20-30	Semaine de formation IRL
 + (16/09/01-10	Test 3)
 + 16/09/10-30	Rapport d'activité ; rapport des résultats : taux d'engagement, "mesure d'entrée vs mesure de sortie".

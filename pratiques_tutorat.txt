@@ -1,0 +1,56 @@
+
+### Pratique actuelle 
+!! Tutorat les Jeudis, 1er trimestre
+Les élèves de sources diverses (concours VS autres) entre à ParisTech.
+Les non-concours ont des difficultés dans certaines matières.
+Ils demandent du tutorat.
+Environ 20~30 élèves.
+Les jeudis après-midi, de septembre à décembre, sont libre et donc consacrés à ces tutorats.
+Les premiers examens sont fin décembre.
+
+Les référents organisent des tutorats.
+Le tutorat peut être donné par le référent ou un associé/assistant, toujours des MCF.
+Les référents ont des cours sous forme de ppt ou pdf.
+Avec ou sans images sous droit d'auteurs.
+Selon les gouts des prof, les documents pédagogique publiable en CC, Public Domaine, ou PAS => lobbying à faire :)
+Qu'ils distribuent par polycopiés, par emails, ou par http://coursenligne.chimie-paristech.fr (moodle).
+Les coursenligne sont de longueurs de nul à bien avancé[1].
+Le cours de M. Wiame est le plus avancé et modèle.
+Demander aux enseignant de montrer *leurs documents/matériaux pédagogique de tutorat*.
+
+[1]: COURS MODELE, M. WIAME : http://coursenligne.chimie-paristech.fr/course/view.php?id=29
+
+### Pratique souhaitée
+!! Moodle + Semaine intensive
+
+BUDGET:
+50.000€ PSL pour le projet soit :
+~ 25k super brut pour l'ingé
+~ 25k pour l'hébergement des étudiants
+Plus un financement des profs pour la semaine intensive
+
+FORMATION
+Fin juin, test d'orientation en ligne.
+Identification des compétences manquantes aux étudiants.
+Etudiants assignés des modules et unités à rattraper.
+----
+Eté moodle, l'étudiant pratique des modules .
+Chaque unité contient :
+* une présentation type fiche de synthèse +20mins
+** une NOTION, un OUTILS, un savoir ou savoir-faire minimal à maitrisé
+* un/des quizzes de TD exposant un problème associé ~ 20mins
+** l'étudiant prends une feuille de papier, un stylo 
+** l'étudiant donne la réponse finale sur moodle
+* des sources, pour aller plus loin
+---
+Fin Aout, semaine intensive de formation
+A Paris, en réel.
+A Chimie Paristech, MINES Paristech ou ESPCI, en fonction du cour.
+Les intervenant sont payés 70€/h.
+Les classes revoient les notions / outils...
+Les classes CONNECTENT ET ARTICULENT ces notions aux cours de problèmes plus larges.
+Dans l'alignement de la formation d'été - Moodle.
+Ce n'est PAS organisé par l'Ingénieur Moodle.
+C'est en coordination avec le projet Moodle.
+
+
