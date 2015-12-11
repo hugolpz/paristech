@@ -1,3 +1,3 @@
 # Resize all images of current directory, make transparency background white
-# warning: this command write UPON input files. You are advised to work on copies.
+# warning: this command write UPON input files
 mogrify -resize 256x256 -background white -flatten *.png

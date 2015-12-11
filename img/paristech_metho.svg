@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="paristech_modules.svg"
+   sodipodi:docname="paristech_metho.svg"
    inkscape:export-filename="/home/hugo/Bureau/Lien vers paristech/img/paristech_metho.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42678924"
-     inkscape:cx="1130.6473"
-     inkscape:cy="526.33711"
+     inkscape:zoom="0.36769553"
+     inkscape:cx="963.21665"
+     inkscape:cy="546.51291"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,7 +65,9 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -102,50 +104,67 @@
     <text
        sodipodi:linespacing="125%"
        id="text4156"
-       y="522.85565"
-       x="-358.06647"
+       y="514.85565"
+       x="-348.06647"
        style="font-size:45px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
        xml:space="preserve"><tspan
          style="font-size:45px;text-align:center;text-anchor:middle"
-         y="522.85565"
-         x="-358.06647"
+         y="514.85565"
+         x="-348.06647"
          id="tspan4158"
          sodipodi:role="line"><tspan
-   style="-inkscape-font-specification:DejaVu Sans Oblique;font-family:DejaVu Sans;font-weight:normal;font-style:oblique;font-stretch:normal;font-variant:normal"
-   id="tspan3110">n</tspan> ateliers</tspan><tspan
+   style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Oblique"
+   id="tspan3110">n</tspan> ateliers*</tspan><tspan
          style="font-size:45px;text-align:center;text-anchor:middle"
-         y="579.10565"
-         x="-358.06647"
+         y="571.10565"
+         x="-348.06647"
          sodipodi:role="line"
          id="tspan4160">de 1-3h</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-       x="-94.402901"
-       y="103.08486"
+       style="font-size:70px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="14.073663"
+       y="65.584862"
        id="text4138"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4140"
-         x="-94.402901"
+         x="24.503349"
+         y="65.584862"
+         style="font-size:30px;text-align:end;text-anchor:end"><tspan
+           style="font-weight:bold"
+           id="tspan3127">Test </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="14.073663"
          y="103.08486"
-         style="font-size:30px">Test 1</tspan></text>
+         style="font-size:30px;font-weight:bold;text-align:end;text-anchor:end"
+         id="tspan3104">d'entrée et</tspan><tspan
+         sodipodi:role="line"
+         x="14.073663"
+         y="140.58487"
+         style="font-size:30px;font-weight:bold;text-align:end;text-anchor:end"
+         id="tspan3917">orientation</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4186"
-       y="1002.7832"
-       x="-94.285713"
-       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       y="984.29688"
+       x="-9.4419632"
+       style="font-size:70px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
        xml:space="preserve"><tspan
-         style="font-size:30px"
-         y="1002.7832"
-         x="-94.285713"
+         style="font-size:30px;text-align:end;text-anchor:end;font-weight:bold"
+         y="984.29688"
+         x="-9.4419632"
          id="tspan4188"
-         sodipodi:role="line">Test 2</tspan></text>
+         sodipodi:role="line">Test de</tspan><tspan
+         style="font-size:30px;text-align:end;text-anchor:end;font-weight:bold"
+         y="1021.7969"
+         x="-9.4419632"
+         sodipodi:role="line"
+         id="tspan3106">sortie</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-       x="-106.41462"
+       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;text-anchor:end;text-align:end"
+       x="-2.9234085"
        y="875.14734"
        id="text4182"
        sodipodi:linespacing="125%"><tspan
@@ -153,25 +172,25 @@
          id="tspan4184"
          x="-106.41462"
          y="875.14734"
-         style="font-size:30px">Unité <tspan
-   style="-inkscape-font-specification:DejaVu Sans Oblique;font-family:DejaVu Sans;font-weight:normal;font-style:oblique;font-stretch:normal;font-variant:normal"
+         style="font-size:30px;text-anchor:end;text-align:end">Unité <tspan
+   style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Oblique;text-anchor:end;text-align:end"
    id="tspan3124">n</tspan></tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178"
        y="746.64728"
-       x="-106.04841"
-       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="5.865654"
+       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;text-anchor:end;text-align:end"
        xml:space="preserve"><tspan
-         style="font-size:30px"
+         style="font-size:30px;text-anchor:end;text-align:end"
          y="746.64728"
          x="-106.04841"
          id="tspan4180"
          sodipodi:role="line">Unité ...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-       x="-106.51716"
+       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;text-anchor:end;text-align:end"
+       x="-2.6011429"
        y="618.14716"
        id="text4174"
        sodipodi:linespacing="125%"><tspan
@@ -179,23 +198,23 @@
          id="tspan4176"
          x="-106.51716"
          y="618.14716"
-         style="font-size:30px">Unité 4</tspan></text>
+         style="font-size:30px;text-anchor:end;text-align:end">Unité 4</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4170"
        y="489.64713"
-       x="-106.15827"
-       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="-2.9600296"
+       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;text-anchor:end;text-align:end"
        xml:space="preserve"><tspan
-         style="font-size:30px"
+         style="font-size:30px;text-anchor:end;text-align:end"
          y="489.64713"
          x="-106.15827"
          id="tspan4172"
          sodipodi:role="line">Unité 3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-       x="-105.85798"
+       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;text-anchor:end;text-align:end"
+       x="-3.2603226"
        y="361.14697"
        id="text4166"
        sodipodi:linespacing="125%"><tspan
@@ -203,21 +222,21 @@
          id="tspan4168"
          x="-105.85798"
          y="361.14697"
-         style="font-size:30px">Unité 2</tspan></text>
+         style="font-size:30px;text-anchor:end;text-align:end">Unité 2</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4162"
        y="232.64691"
-       x="-105.97517"
-       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="-3.1431351"
+       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;text-anchor:end;text-align:end"
        xml:space="preserve"><tspan
-         style="font-size:30px"
+         style="font-size:30px;text-anchor:end;text-align:end"
          y="232.64691"
          x="-105.97517"
          id="tspan4164"
          sodipodi:role="line">Unité 1</tspan></text>
     <rect
-       style="fill:#71c837;fill-opacity:1;stroke:none"
+       style="fill:#71c837;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:10.00000048000000064;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4190"
        width="214.28572"
        height="85.714287"
@@ -283,7 +302,7 @@
          y="103.08487"
          x="566.68085"
          id="tspan4208"
-         sodipodi:role="line">Quizz</tspan></text>
+         sodipodi:role="line">TEST</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
@@ -295,93 +314,93 @@
          id="tspan4240"
          x="566.68085"
          y="1005.4378"
-         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Quizz</tspan></text>
+         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Test</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4234"
        y="876.53021"
-       x="566.68085"
+       x="542.80389"
        style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        xml:space="preserve"><tspan
          style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          y="876.53021"
-         x="566.68085"
+         x="542.80389"
          id="tspan4236"
-         sodipodi:role="line">Quizz</tspan></text>
+         sodipodi:role="line">Quizzes</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-       x="566.68085"
+       x="542.80389"
        y="747.62262"
        id="text4230"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4232"
-         x="566.68085"
+         x="542.80389"
          y="747.62262"
-         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Quizz</tspan></text>
+         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Quizzes</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4226"
        y="618.71509"
-       x="566.68085"
+       x="542.80389"
        style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        xml:space="preserve"><tspan
          style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          y="618.71509"
-         x="566.68085"
+         x="542.80389"
          id="tspan4228"
-         sodipodi:role="line">Quizz</tspan></text>
+         sodipodi:role="line">Quizzes</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-       x="566.68085"
+       x="542.80389"
        y="489.80759"
        id="text4222"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4224"
-         x="566.68085"
+         x="542.80389"
          y="489.80759"
-         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Quizz</tspan></text>
+         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Quizzes</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4218"
        y="360.89999"
-       x="566.68085"
+       x="542.80389"
        style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        xml:space="preserve"><tspan
          style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          y="360.89999"
-         x="566.68085"
+         x="542.80389"
          id="tspan4220"
-         sodipodi:role="line">Quizz</tspan></text>
+         sodipodi:role="line">Quizzes</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-       x="566.68085"
+       x="542.80389"
        y="231.9924"
        id="text4214"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4216"
-         x="566.68085"
+         x="542.80389"
          y="231.9924"
-         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Quizz</tspan></text>
+         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Quizzes</tspan></text>
     <rect
        y="49.505062"
        x="54.285732"
        height="85.714287"
        width="440"
        id="rect4136"
-       style="fill:#71c837;fill-opacity:0.66153121;stroke:none" />
+       style="fill:#cccccc;fill-opacity:0.66153121000000004;stroke:none" />
     <rect
        y="949.00568"
        x="54.285732"
        height="85.714287"
        width="440"
        id="rect4154"
-       style="fill:#71c837;fill-opacity:0.66153121;stroke:none" />
+       style="fill:#cccccc;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#5aa02c;fill-opacity:1;stroke:none"
        id="rect4152"
@@ -391,7 +410,7 @@
        y="820.50555" />
     <text
        xml:space="preserve"
-       style="font-size:70px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;font-stretch:normal;font-variant:normal"
+       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        x="105.59711"
        y="876.53021"
        id="text4242"
@@ -400,7 +419,7 @@
          id="tspan4244"
          x="105.59711"
          y="876.53021"
-         style="font-size:37.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Fiche cours</tspan></text>
+         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Fiches de cours</tspan></text>
     <rect
        y="692.00549"
        x="54.285732"
@@ -413,13 +432,13 @@
        id="text4258"
        y="748.04041"
        x="105.59711"
-       style="font-size:70px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;font-stretch:normal;font-variant:normal"
+       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        xml:space="preserve"><tspan
-         style="font-size:37.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          y="748.04041"
          x="105.59711"
          id="tspan4260"
-         sodipodi:role="line">Fiche cours</tspan></text>
+         sodipodi:role="line">Fiches de cours</tspan></text>
     <rect
        style="fill:#5aa02c;fill-opacity:1;stroke:none"
        id="rect4148"
@@ -429,7 +448,7 @@
        y="563.50537" />
     <text
        xml:space="preserve"
-       style="font-size:70px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;font-stretch:normal;font-variant:normal"
+       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        x="105.59711"
        y="619.55054"
        id="text4262"
@@ -438,7 +457,7 @@
          id="tspan4264"
          x="105.59711"
          y="619.55054"
-         style="font-size:37.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Fiche cours</tspan></text>
+         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Fiches de cours</tspan></text>
     <rect
        y="435.00531"
        x="54.285732"
@@ -451,13 +470,13 @@
        id="text4266"
        y="491.06067"
        x="105.59711"
-       style="font-size:70px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;font-stretch:normal;font-variant:normal"
+       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        xml:space="preserve"><tspan
-         style="font-size:37.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          y="491.06067"
          x="105.59711"
          id="tspan4268"
-         sodipodi:role="line">Fiche cours</tspan></text>
+         sodipodi:role="line">Fiches de cours</tspan></text>
     <rect
        style="fill:#5aa02c;fill-opacity:1;stroke:none"
        id="rect4144"
@@ -467,7 +486,7 @@
        y="306.50516" />
     <text
        xml:space="preserve"
-       style="font-size:70px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;font-stretch:normal;font-variant:normal"
+       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        x="105.59711"
        y="362.5708"
        id="text4270"
@@ -476,7 +495,7 @@
          id="tspan4272"
          x="105.59711"
          y="362.5708"
-         style="font-size:37.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Fiche cours</tspan></text>
+         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Fiches de cours</tspan></text>
     <rect
        y="178.00511"
        x="54.285732"
@@ -489,27 +508,27 @@
        id="text4274"
        y="234.08101"
        x="105.59711"
-       style="font-size:70px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;font-stretch:normal;font-variant:normal"
+       style="font-size:70px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        xml:space="preserve"><tspan
-         style="font-size:37.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         style="font-size:37.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          y="234.08101"
          x="105.59711"
          id="tspan4276"
-         sodipodi:role="line">Fiche cours</tspan></text>
+         sodipodi:role="line">Fiches de cours</tspan></text>
     <rect
        y="49.505062"
        x="754.28583"
        height="85.714287"
        width="214.28572"
        id="rect4447"
-       style="fill:#71c837;fill-opacity:0.66153121;stroke:none" />
+       style="fill:#cccccc;fill-opacity:0.66153121000000004;stroke:none" />
     <rect
        y="949.00568"
        x="754.28583"
        height="85.714287"
        width="214.28572"
        id="rect4453"
-       style="fill:#71c837;fill-opacity:0.66153121;stroke:none" />
+       style="fill:#cccccc;fill-opacity:0.66153121000000004;stroke:none" />
     <rect
        style="fill:#5aa02c;fill-opacity:1;stroke:none"
        id="rect4459"
@@ -673,8 +692,8 @@
          id="tspan4732"
          sodipodi:role="line">(rien)</tspan></text>
     <path
-       style="fill:none;stroke:#71c837;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -163.73923,70.82184 c -18.95315,16.995365 -20.23379,32.46714 -20,54.31133 0,126.72643 20.91463,257.80194 -12,380.17928 -3.45179,12.83385 -20,34.49062 -20,34.49062 0,0 16.54821,21.65676 20,34.49061 32.91464,122.37734 12,253.45286 12,380.17929 -1.84935,27.81948 -1.20915,46.48303 20,54.31133"
+       style="fill:none;stroke:#71c837;stroke-width:10.32132053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -162.9038,40.5225 c -19.56215,17.541461 -20.88394,33.510376 -20.64264,56.056465 0,130.798415 21.58666,266.085655 -12.38558,392.395225 -3.56271,13.24623 -20.64264,35.59888 -20.64264,35.59888 0,0 17.07993,22.35264 20.64264,35.59886 33.97225,126.30958 12.38558,261.59683 12.38558,392.39524 -1.90877,28.71338 -1.248,47.97663 20.64264,56.05643"
        id="path4773"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscscc" />
@@ -695,22 +714,22 @@
          sodipodi:role="line"
          x="1319.4409"
          y="129.71313"
-         style="font-size:35px;font-weight:bold;text-align:center;text-anchor:middle">Durant chaque atelier:</tspan><tspan
+         style="font-size:35px;font-weight:bold;text-align:center;text-anchor:middle">Durant chaque atelier*:</tspan><tspan
          id="tspan4977"
          sodipodi:role="line"
          x="1319.4409"
          y="173.46313"
          style="font-size:35px;font-weight:bold;text-align:center;text-anchor:middle">1.</tspan><tspan
          sodipodi:role="line"
-         x="1325.0122"
+         x="1319.4409"
          y="217.21313"
          style="font-size:35px;text-align:center;text-anchor:middle"
-         id="tspan4953">les enseignants montrent </tspan><tspan
+         id="tspan4953">Les enseignants du module</tspan><tspan
          sodipodi:role="line"
-         x="1325.0122"
+         x="1319.4409"
          y="260.96313"
          style="font-size:35px;text-align:center;text-anchor:middle"
-         id="tspan4955">à l'ingénieur Moodle </tspan><tspan
+         id="tspan4955">montrent à l'ingénieur</tspan><tspan
          id="tspan4979"
          sodipodi:role="line"
          x="1319.4409"
@@ -721,21 +740,21 @@
          y="348.46313"
          style="font-size:35px;font-weight:bold;text-align:center;text-anchor:middle"
          id="tspan4959"> 2. </tspan><tspan
-         id="tspan4967"
          sodipodi:role="line"
-         x="1319.4409"
+         x="1325.0122"
          y="392.21313"
-         style="font-size:35px;text-align:center;text-anchor:middle">L'ingénieur conseille</tspan><tspan
+         style="font-size:35px;text-align:center;text-anchor:middle"
+         id="tspan4961">Le groupe retravaille </tspan><tspan
          sodipodi:role="line"
-         x="1319.4409"
+         x="1325.0122"
          y="435.96313"
          style="font-size:35px;text-align:center;text-anchor:middle"
-         id="tspan4961">et aide / effectue</tspan><tspan
+         id="tspan3115">les documents </tspan><tspan
          sodipodi:role="line"
          x="1319.4409"
          y="479.71313"
          style="font-size:35px;text-align:center;text-anchor:middle"
-         id="tspan4963"> la remise en forme.</tspan></text>
+         id="tspan4963">pour un portage Moodle.</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4987"
@@ -789,6 +808,43 @@
          sodipodi:role="line"
          x="527.97491"
          y="1302.7024"
-         style="font-size:60.00000286px;text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Sans Bold;font-family:DejaVu Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">1 cours de remise à niveau Moodle</tspan></text>
+         style="font-size:60.00000381px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">1 module** de remise à niveau sur Moodle</tspan></text>
+    <path
+       style="fill:none;stroke:#71c837;stroke-width:10.00000048;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 531.87845,133.14771 916.14305,0"
+       id="path3915"
+       inkscape:connector-curvature="0"
+       transform="translate(-478.30523,23.721843)" />
+    <text
+       xml:space="preserve"
+       style="font-size:70px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="-227.66203"
+       y="1605.6584"
+       id="text4949-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="-227.66203"
+         y="1605.6584"
+         style="font-size:35px;text-align:center;text-anchor:middle"
+         id="tspan4963-1">* atelier = sprint</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4053"
+       y="1605.6584"
+       x="-1284.0223"
+       style="font-size:70px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       xml:space="preserve"><tspan
+         id="tspan4055"
+         style="font-size:35px;text-align:start;text-anchor:start"
+         y="1605.6584"
+         x="-1284.0223"
+         sodipodi:role="line">** une matière = 1 module moodle</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4057"
+       d="m 53.57322,926.52812 916.14305,0"
+       style="fill:none;stroke:#71c837;stroke-width:10.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>

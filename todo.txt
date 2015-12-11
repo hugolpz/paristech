@@ -1,20 +1,29 @@
+####################################################
 FAIT ----------------------------------------------
-INSTALLATION , CARTOGRAPHIE DU PROJET :
+INSTALLATION , CARTOGRAPHIE DU PROJET : -----------
 + 	@me: lire project specs		=> /doc/SPIF_PSL.docx 
 +	@me: doc:créer chronologie prévisionnelle détaillée 	=> /chrono.txt
-++ 	@me: doc:méthodologie de travail par module		=> /metho.txt , /img/
+++ 	@me: doc:méthodologie de travail par module		=> /metho.txt , /img/paristech_metho.png
 ++	@me: doc:arborescense du projet / des fichiers.		=> /metho.txt
 +	@Frédéric: com:"Référents de modules", obtenir emails	=> /contacts.txt
 +	@Frédéric: com:"élèves admis sur titre" (actuels), obtenir 20 emails	=> /contacts.txt
+++ 	@me: doc:collecter des images utiles			=> /img/logo*
 + 	@me: Anki / "Spaced Repetition System". Revue de la faisabilité technique de decks Anki (avec pour contenus le vocabulaire technique des cours de Paristech).	=> /doc/anki.txt
-COMMUNIQUER :
-++ 	@me: com:Création des comptes gmail, google drive, trello, doodle, github 	=> /accounts.txt
-++ 	@me: com:Création d'un ppt frugal d'annonce		=> gmail > google drive > https://goo.gl/RIsDx7
+COMMUNIQUER :  ------------------------------------
+++ 	@me: com:Création d'un ppt frugal d'annonce		=> /img/bg-ppt-master/ et gmail > google drive > https://goo.gl/RIsDx7
+++ 	@me: com:Création des comptes 	=> /accounts.txt
+		gmail.com -- done (center)
+		trello.com -- done
+		twitter.com -- done
+		github.com -- done
+		doogle.com -- done
 
+####################################################
 A FAIRE:--------------------------------------------
+++	@me: Mettre à jour la signature gmail https://mail.google.com/mail/u/0/#settings/general
 +	@Frédéric: com:"élèves admis sur titre" (actuels), questionnaire des pratiques / outils
-++	@me: com:Lettre d'argumentations aux référents.
-+	@me, @Frédéric: com:Renommage du projet via brain storming : évaluation, orientation, formation, en ligne, personnalisée / diversité des profils, commune, capitalisable, modulaire, compétences, savoirs, unité minimale d'enseignement, remise à niveau, formation rapide, ouvert.
-
+++	@me: com:Emails de contact - argumentations aux référents.
++	@me, @Frédéric: com:Renommage du projet via brain storming. Mots clefs: évaluation, orientation, formation, en ligne, personnalisée / diversité des profils, commune, capitalisable, modulaire, compétences, savoirs, unité minimale d'enseignement, remise à niveau, formation rapide, ouvert.
++ 	@me: com,prod: mettre comme page de démarage par défaut du web browser: gmail.com / calendar.google.com / trello.com / github.com/trainingparistech / twitter.com /trainParistech /
 
 
